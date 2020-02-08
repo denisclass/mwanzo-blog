@@ -1,1 +1,5 @@
 
+[submodule "public"]
+	path = public
+	url = https://github.com/denisclass101/mwanzo.github.io.git
+	branch = master
