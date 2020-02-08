@@ -17,7 +17,7 @@ disqusShortname = "yourdiscussshortname"
     author = "Author Mwanzo"
     info = "Magician at Wonder's Place"
     description = "Mwanzo's personal website"
-    keywords = "one, two, three a few"
+    keywords = "blog,developer,personal"
     avatarurl = "img/avatar.jpg"
 
     favicon_32 = "img/favicon-32x32.png"
@@ -63,7 +63,7 @@ disqusShortname = "yourdiscussshortname"
 [[menu.main]] 
 	name = "Projects"
 	weight = 3
-	url = "https://www.example.com"
+	url = "/projects"
 [[menu.main]]
 	name = "Contact me"
 	weight = 4
